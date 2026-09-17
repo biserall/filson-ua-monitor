@@ -1,5 +1,454 @@
 {
-  "version": 1,
-  "initialized": false,
-  "items": {}
+  "initialized": true,
+  "items": {
+    "0aa945045bb7954d83ec47046df733a78435218f338e74fd4b039220251b6860": {
+      "first_seen": 1789645358,
+      "price": "850 грн",
+      "source": "Shafa",
+      "title": "Панама filson оригінал",
+      "url": "https://shafa.ua/uk/aksesuary/holovni-ubory/panamy/214626727-panama-filson-original"
+    },
+    "13d5215fdbdc6e8ff6f16343897cf4fab6cca8928e36a2d03cbdbdeb580330c5": {
+      "first_seen": 1789645358,
+      "price": "1 000 грн",
+      "source": "OLX",
+      "title": "Жилетка Kuhl filson berreta ll bean оригінал L",
+      "url": "https://www.olx.ua/d/uk/obyavlenie/zhiletka-kuhl-filson-berreta-ll-bean-orignal-l-ID10A4wZ.html?search_reason=search%7Corganic"
+    },
+    "14bb8a323fc1f547d8f220de109e666403f90b9aac8919426139ace31f17ba2c": {
+      "first_seen": 1789645358,
+      "price": "",
+      "source": "OLX",
+      "title": "filson в Одяг для хлопчиків",
+      "url": "https://www.olx.ua/uk/detskiy-mir/detskaya-odezhda/odezhda-dlya-malchikov/q-filson"
+    },
+    "201aa64ad7e5fc898c861f16a104de40b7a4f01ed993a076cbfa9d41e480b554": {
+      "first_seen": 1789645358,
+      "price": "",
+      "source": "OLX",
+      "title": "В колекцію колекційний комбінезон Mossy Oak made in USA XL filson icebreaker camo",
+      "url": "https://www.olx.ua/uk/basket"
+    },
+    "2cc8b5100a8dc8cd292ac53fbe119f5d3b6f1e1549cc740c4490d4f190a41f58": {
+      "first_seen": 1789645358,
+      "price": "2 500 грн",
+      "source": "OLX",
+      "title": "Куртка вакс John Partridge barbour filson оригінал RRP 200 USD s/m",
+      "url": "https://www.olx.ua/d/uk/obyavlenie/kurtka-vaks-john-partridge-barbour-filson-orignal-rrp-200-usd-s-m-ID10SCao.html?search_reason=search%7Corganic"
+    },
+    "365e4306c24d845fd0f665750a2de094242e7aa28296636d0596537fbbfb8644": {
+      "first_seen": 1789645358,
+      "price": "4 000 грн",
+      "source": "OLX",
+      "title": "Колекційна шкіряна куртка Strellson filson iron heart",
+      "url": "https://www.olx.ua/d/uk/obyavlenie/kolektsyna-shkryana-kurtka-strellson-filson-iron-heart-IDZiQod.html?search_reason=search%7Corganic"
+    },
+    "368e2ac4446c37277a211772efe599bff2ac01011bc9fe28a27102c8b09d5d4f": {
+      "first_seen": 1789645358,
+      "price": "4 500 грн",
+      "source": "OLX",
+      "title": "Куртка Carhartt active jacket wax оригінал ralph filson barbour",
+      "url": "https://www.olx.ua/d/uk/obyavlenie/kurtka-carhartt-active-jacket-wax-orignal-ralph-filson-barbour-ID11fveQ.html?search_reason=search%7Corganic"
+    },
+    "36a290d844d2f2686664b5b63312cddbb7f704230fca579b83000a89496d4b1e": {
+      "first_seen": 1789645358,
+      "price": "2 500 грн",
+      "source": "OLX",
+      "title": "В колекцію колекційна панама filson double rl ralph kapital s нова",
+      "url": "https://www.olx.ua/d/uk/obyavlenie/v-kolektsyu-kolektsyna-panama-filson-double-rl-ralph-kapital-s-nova-ID10W0af.html?search_reason=search%7Corganic"
+    },
+    "36ac6923c4ad2124fb1b247b1a0170860cff677b414f7c8434a9e6a1caeb1925": {
+      "first_seen": 1789645358,
+      "price": "1 500 грн",
+      "source": "OLX",
+      "title": "В колекцію джинси Edwin 32 оригінал LVC filson iron heart",
+      "url": "https://www.olx.ua/d/uk/obyavlenie/v-kolektsyu-dzhinsi-edwin-32-orignal-lvc-filson-iron-heart-ID111p5r.html?search_reason=search%7Corganic"
+    },
+    "36ad3617f05ec114625ae7e4cb78443c20982b7d7102289db376df4336c694a3": {
+      "first_seen": 1789645358,
+      "price": "1 000 грн",
+      "source": "OLX",
+      "title": "В колекцію колекційний кардиган шерсть Kenneth Gordon filson double rl",
+      "url": "https://www.olx.ua/d/uk/obyavlenie/v-kolektsyu-kolektsyniy-kardigan-sherst-kenneth-gordon-filson-double-rl-ID10D3QK.html?search_reason=search%7Corganic"
+    },
+    "39e92ce4bdfe98053ad6d917c3c7aecb9444bd077dba24e613a19cddaf43689a": {
+      "first_seen": 1789645358,
+      "price": "850 грн",
+      "source": "Shafa",
+      "title": "Кепка filson оригінал",
+      "url": "https://shafa.ua/uk/aksesuary/holovni-ubory/kepky/213463382-kepka-filson-original"
+    },
+    "3bdbd2af97cecd915d6ef036cb1d69b8d0521db7092a8141b6766fb5519b4c4e": {
+      "first_seen": 1789645358,
+      "price": "1 000 грн",
+      "source": "OLX",
+      "title": "В колекцію колекційна куртка овершот ALBAM filson kapital iron heart",
+      "url": "https://www.olx.ua/d/uk/obyavlenie/v-kolektsyu-kolektsyna-kurtka-overshot-albam-filson-kapital-iron-heart-ID106dOY.html?search_reason=search%7Corganic"
+    },
+    "48b3f85911b40107b6f6de2762026de920a81798d49cf249b07d3d1237af11cc": {
+      "first_seen": 1789645358,
+      "price": "",
+      "source": "OLX",
+      "title": "Додати оголошення",
+      "url": "https://www.olx.ua/uk/adding"
+    },
+    "598b78b8015730629092db9cc7829efa47fb37ba78756d7f8c0d15ddf04e4b4b": {
+      "first_seen": 1789645358,
+      "price": "1 999 грн",
+      "source": "OLX",
+      "title": "В колекцію колекційна куртка Superdry filson apc military L",
+      "url": "https://www.olx.ua/d/uk/obyavlenie/v-kolektsyu-kolektsyna-kurtka-superdry-filson-apc-military-l-ID10jpBF.html?search_reason=search%7Corganic"
+    },
+    "5c3b01fd60e58d659d72f2b9d75f1243495f7601b15446f1d942ff8c1821ea2a": {
+      "first_seen": 1789645358,
+      "price": "",
+      "source": "OLX",
+      "title": "filson в Бейсболки та кепки",
+      "url": "https://www.olx.ua/uk/moda-i-stil/golovnye-ubory/beysbolki-kepki/q-filson"
+    },
+    "6359d6fbf92eccbf41bf9f3c3ec560dcab5710fd2c1436e5af89e36a89eea395": {
+      "first_seen": 1789645358,
+      "price": "2 000 грн",
+      "source": "OLX",
+      "title": "Куртка вакс lakeline wax Barbour filson double rl McCoy",
+      "url": "https://www.olx.ua/d/uk/obyavlenie/kurtka-vaks-lakeline-wax-barbour-filson-double-rl-mccoy-ID10yuow.html?search_reason=search%7Corganic"
+    },
+    "6822d30f224996f8033c72b1799d023f8b9ab2126fabfeba545277ee6abc2c3f": {
+      "first_seen": 1789645358,
+      "price": "1 000 грн",
+      "source": "OLX",
+      "title": "Жилетка Universal Works filson rrl оригінал ralph",
+      "url": "https://www.olx.ua/d/uk/obyavlenie/zhiletka-universal-works-filson-rrl-orignal-ralph-ID10qOLw.html?search_reason=search%7Corganic"
+    },
+    "68fba9f937f372cdbd1c77e58375bbf99310b7782041edf0451a3ffd3cf32b5e": {
+      "first_seen": 1789645358,
+      "price": "2 000 грн",
+      "source": "OLX",
+      "title": "Куртка Wax clothing barbour filson ll bean xl",
+      "url": "https://www.olx.ua/d/uk/obyavlenie/kurtka-wax-clothing-barbour-filson-ll-bean-xl-ID117hC3.html?search_reason=search%7Corganic"
+    },
+    "699dd2107f0700a3ae595e5a9dfd68315ecb71e84333b34da89266393bb8c856": {
+      "first_seen": 1789645358,
+      "price": "",
+      "source": "OLX",
+      "title": "Ваш профіль",
+      "url": "https://www.olx.ua/uk/myaccount?backUrl=%2Fmyaccount"
+    },
+    "69aef562da8517cf03bbfcad6e17ec9a8e1b206e742dcf17f9878ac31c53c515": {
+      "first_seen": 1789645358,
+      "price": "1 000 грн",
+      "source": "OLX",
+      "title": "Технологічні карго Strellson Filson в колекцію apc riot",
+      "url": "https://www.olx.ua/d/uk/obyavlenie/tehnologchn-kargo-strellson-filson-v-kolektsyu-apc-riot-IDZRJxA.html?search_reason=search%7Corganic"
+    },
+    "6c3ed75e52808f42aaf17a11bdc78216d9387ac9a017dc5ec09e0adc5ee979cc": {
+      "first_seen": 1789645358,
+      "price": "2 000 грн",
+      "source": "OLX",
+      "title": "Плащ вакс Campbell Cooper wax barbour filson L made in England",
+      "url": "https://www.olx.ua/d/uk/obyavlenie/plasch-vaks-campbell-cooper-wax-barbour-filson-l-made-in-england-ID10VZN2.html?search_reason=search%7Corganic"
+    },
+    "6ea4f7b967d7cc5bc328826d53f6d4d23645eef4b01f3f2dd7e509371f88d81a": {
+      "first_seen": 1789645358,
+      "price": "10 000 грн",
+      "source": "OLX",
+      "title": "Сумка Filson double rl visvim kapital оригінал",
+      "url": "https://www.olx.ua/d/uk/obyavlenie/sumka-filson-double-rl-visvim-kapital-orignal-ID10CFba.html?search_reason=search%7Corganic"
+    },
+    "7f03cc2c2190f52b16aab1523c4201f3f0f280ef2f6b72debb85c8ddd9ceab82": {
+      "first_seen": 1789645358,
+      "price": "850 грн",
+      "source": "Shafa",
+      "title": "Fox outdoors mens warm lumberjack chequered shirt blue [smh016884]",
+      "url": "https://shafa.ua/uk/men/rubashki/rubashki/199328302-fox-outdoors-mens-warm-lumberjack-chequered-shirt-blue-smh016884"
+    },
+    "842a685ed804b16efcbb75491e9542ec9d1d765b1f320f88a91fbf87dfd1a738": {
+      "first_seen": 1789645358,
+      "price": "24 010 ₴",
+      "source": "Prom",
+      "title": "GoGear",
+      "url": "https://prom.ua/ua/c3798165-gogear.html"
+    },
+    "8a104ff0547a00f9fb95a8905b5e3236c6fecc041467930bbd25723584cfc335": {
+      "first_seen": 1789645358,
+      "price": "1 000 грн",
+      "source": "OLX",
+      "title": "Куртка вакс made in England savvy citizen barbour filson S",
+      "url": "https://www.olx.ua/d/uk/obyavlenie/kurtka-vaks-made-in-england-savvy-citizen-barbour-filson-s-ID10XOB7.html?search_reason=search%7Corganic"
+    },
+    "8c08ca858a002544aea63556f6f3ed5bc92537965e14c528036aea048e47f9cd": {
+      "first_seen": 1789645358,
+      "price": "3 000 грн",
+      "source": "OLX",
+      "title": "В колекцію колекційна куртка Universal Works filson apc kapital Halley Stevenson wax L",
+      "url": "https://www.olx.ua/d/uk/obyavlenie/v-kolektsyu-kolektsyna-kurtka-universal-works-filson-apc-kapital-halley-stevenson-wax-l-ID10ENtp.html?search_reason=search%7Corganic"
+    },
+    "8da6af45c06feeb3d650f58d94e972c9048adb825877141afdddae2042ef1d93": {
+      "first_seen": 1789645358,
+      "price": "2 900 грн",
+      "source": "OLX",
+      "title": "Новая с биркой вощеная куртка Maden L XL waxed cotton Filson Belstaff",
+      "url": "https://www.olx.ua/d/uk/obyavlenie/novaya-s-birkoy-voschenaya-kurtka-maden-l-xl-waxed-cotton-filson-belstaff-ID10pwr8.html?search_reason=search%7Corganic"
+    },
+    "918504d956cf23cb13fb93c359ebc536a170c1e9dfa82dcb57df2e1771c292a9": {
+      "first_seen": 1789645358,
+      "price": "",
+      "source": "OLX",
+      "title": "Дізнатись більше.",
+      "url": "https://help.olx.ua/olxuahelp/s/article/%D0%BF%D0%BE%D0%BB%D1%96%D1%82%D0%B8%D0%BA%D0%B0-%D0%B2%D0%B8%D0%BA%D0%BE%D1%80%D0%B8%D1%81%D1%82%D0%B0%D0%BD%D0%BD%D1%8F-cookies-V28"
+    },
+    "92b15b230132939ec65603f5ac2d985ab08912e2a7f12b09891f8c8646d950e7": {
+      "first_seen": 1789645358,
+      "price": "2 500 грн",
+      "source": "OLX",
+      "title": "В колекцію колекційна куртка шерсть filson McCoy kapital home",
+      "url": "https://www.olx.ua/d/uk/obyavlenie/v-kolektsyu-kolektsyna-kurtka-sherst-filson-mccoy-kapital-home-IDZZNdZ.html?search_reason=search%7Corganic"
+    },
+    "9cb29f8629582923c52a7b9d73bd687c8a4bf20aa18e220d65f9c431b347571b": {
+      "first_seen": 1789645358,
+      "price": "850 грн",
+      "source": "Shafa",
+      "title": "Фланелева сорочка чоловіча taylor stitch filson",
+      "url": "https://shafa.ua/uk/item/218411362-flaneleva-sorochka-cholovicha-taylor-stitch-filson"
+    },
+    "9cedad26633c4c6f1d770b095402699df6b2226673640affe389c810c76e42d3": {
+      "first_seen": 1789645358,
+      "price": "850 грн",
+      "source": "Shafa",
+      "title": "Чоловіча сорочка на короткий рукав dickies x filson shirt/теніска/бавовняна/з бавовни/воркаер/workwear/базова/повсякденна/в клітку/клітинку",
+      "url": "https://shafa.ua/uk/men/rubashki/tenniski/201792010-cholovicha-sorochka-na-korotkiy-rukav-dickies-x-filson"
+    },
+    "9f735f0f31a249ec4958c27dacb03ad56489ccec4237738d04c59c7c11cf767c": {
+      "first_seen": 1789645358,
+      "price": "2 000 грн",
+      "source": "OLX",
+      "title": "Куртка вакс PG Field wax barbour filson оригінал",
+      "url": "https://www.olx.ua/d/uk/obyavlenie/kurtka-vaks-pg-field-wax-barbour-filson-orignal-ID11dX0u.html?search_reason=search%7Corganic"
+    },
+    "a340a5746c22c7968ba81fbba671c9dd1c43cee9a607e2c1f767a9a5e25d9a76": {
+      "first_seen": 1789645358,
+      "price": "1 000 грн",
+      "source": "OLX",
+      "title": "В колекцію колекційна Шкіряна куртка C&A lvc filson kapital s/m",
+      "url": "https://www.olx.ua/d/uk/obyavlenie/v-kolektsyu-kolektsyna-shkryana-kurtka-c-a-lvc-filson-kapital-s-m-ID10pP7a.html?search_reason=search%7Corganic"
+    },
+    "aa6a9cb564f136fb9f9471accdb64c1e829f094fc235e2f00cebf58b5bebee3a": {
+      "first_seen": 1789645358,
+      "price": "850 грн",
+      "source": "Shafa",
+      "title": "Кепка filson оригінал",
+      "url": "https://shafa.ua/uk/aksesuary/holovni-ubory/kepky/212252492-kepka-filson-original"
+    },
+    "aafd19bc5a66525448886678544db93e87dfd8a47982087730e6ede858d7c06f": {
+      "first_seen": 1789645358,
+      "price": "3 000 грн",
+      "source": "OLX",
+      "title": "Кепка Filson camo scenic",
+      "url": "https://www.olx.ua/d/uk/obyavlenie/kepka-filson-camo-scenic-ID10Nkrc.html?search_reason=search%7Corganic"
+    },
+    "ab7a2e4d2cd1f73fa82fd1ad7c168c64a5e5e0257fb3a5a85cc01f27bd83149a": {
+      "first_seen": 1789645358,
+      "price": "1 000 грн",
+      "source": "OLX",
+      "title": "Колекційна куртка в колекцію Racing Green Barbour LVC filson m",
+      "url": "https://www.olx.ua/d/uk/obyavlenie/kolektsyna-kurtka-v-kolektsyu-racing-green-barbour-lvc-filson-m-ID10pNpp.html?search_reason=search%7Corganic"
+    },
+    "b3b39d8eb5ece3907eb3f352db54067e43483e62cd0be95184d73f6cf4037db2": {
+      "first_seen": 1789645358,
+      "price": "",
+      "source": "OLX",
+      "title": "filson в Колекціонування",
+      "url": "https://www.olx.ua/uk/hobbi-otdyh-i-sport/antikvariat-kollektsii/kollektsionirovanie/q-filson"
+    },
+    "b5b3911668ccbe5b112f94d6011db0e6f6b87a290acc96be1a2c6ecd9c8ed461": {
+      "first_seen": 1789645358,
+      "price": "2 000 грн",
+      "source": "OLX",
+      "title": "Черевики LL Bean boots made in USA filson double rl",
+      "url": "https://www.olx.ua/d/uk/obyavlenie/chereviki-ll-bean-boots-made-in-usa-filson-double-rl-ID10SFiP.html?search_reason=search%7Corganic"
+    },
+    "c46d8d33f9a9485bc6f4831f11fd468236a4572dcf484a593921dec537e94993": {
+      "first_seen": 1789645358,
+      "price": "1 000 грн",
+      "source": "OLX",
+      "title": "В колекцію колекційна куртка вакс England British Millerain L barbour filson",
+      "url": "https://www.olx.ua/d/uk/obyavlenie/v-kolektsyu-kolektsyna-kurtka-vaks-england-british-millerain-l-barbour-filson-ID11aaDO.html?search_reason=search%7Corganic"
+    },
+    "c6f3d6185b8a2967a74658d5ceb615e491e2797207c7aa30ea23587ba246b557": {
+      "first_seen": 1789645358,
+      "price": "1 000 грн",
+      "source": "OLX",
+      "title": "вінтажний шкіряний ремінь filson doublr rl kapital",
+      "url": "https://www.olx.ua/d/uk/obyavlenie/vntazhniy-shkryaniy-remn-filson-doublr-rl-kapital-ID105HhM.html?search_reason=search%7Corganic"
+    },
+    "c789686c9edfdfd6c71cad959df3bfea8015d84b0f56a65efff673aa49095617": {
+      "first_seen": 1789645358,
+      "price": "6 000 грн",
+      "source": "OLX",
+      "title": "В колекцію колекційна куртка Del corso filson lvc kapital італія",
+      "url": "https://www.olx.ua/d/uk/obyavlenie/v-kolektsyu-kolektsyna-kurtka-del-corso-filson-lvc-kapital-talya-ID11eXTH.html?search_reason=search%7Corganic"
+    },
+    "ca20c362175ad729e9a926096fd633f72c013139961ce9b02273ed368a9a45e3": {
+      "first_seen": 1789645358,
+      "price": "",
+      "source": "OLX",
+      "title": "filson в Чоловічий одяг",
+      "url": "https://www.olx.ua/uk/moda-i-stil/muzhskaya-odezhda/q-filson"
+    },
+    "ce1cf2f1456802b456ffce7bf214888527daaf591755490e255d788a09a19aea": {
+      "first_seen": 1789645358,
+      "price": "850 грн",
+      "source": "Shafa",
+      "title": "Кепка filson оригінал",
+      "url": "https://shafa.ua/uk/aksesuary/holovni-ubory/kepky/212252458-kepka-filson-original"
+    },
+    "d02da4364638588a2f969b61a174278eb36e6b51428f45d9f6cd3ccc94798ef9": {
+      "first_seen": 1789645358,
+      "price": "",
+      "source": "Bigl",
+      "title": "Всі категорії",
+      "url": "https://bigl.ua/ua/all_categories"
+    },
+    "d24d1a24ddb9f5387e9831fed8678899d9a58c8f0236c99dbe910fea9061e849": {
+      "first_seen": 1789645358,
+      "price": "2 000 грн",
+      "source": "OLX",
+      "title": "Шкіряна куртка Hugo Boss Orange LVC filson kapital l",
+      "url": "https://www.olx.ua/d/uk/obyavlenie/shkryana-kurtka-hugo-boss-orange-lvc-filson-kapital-l-ID10oRAX.html?search_reason=search%7Corganic"
+    },
+    "d340079df5fe60f5830eebea100e806cf96a5d2a596dd8c3e9567f32b6664060": {
+      "first_seen": 1789645358,
+      "price": "850 грн",
+      "source": "Shafa",
+      "title": "Водозахісна куртка timberland / filson/ l.l.bean/ eddie bauer",
+      "url": "https://shafa.ua/uk/men/verkhniaia-odezhda/kurtki/180553262-vodozahisna-kurtka-bomber-timberland"
+    },
+    "d38c02421c1f8a656c9f23703d8b5dfb9df61e1587c71f22c5e05a0af434f4bd": {
+      "first_seen": 1789645358,
+      "price": "",
+      "source": "OLX",
+      "title": "filson в Мода і стиль",
+      "url": "https://www.olx.ua/uk/moda-i-stil/q-filson"
+    },
+    "d54c7b6038a522033f7f0cb08fcd8a761ed2b4e151dea0d21498f303f7aa2742": {
+      "first_seen": 1789645358,
+      "price": "850 грн",
+      "source": "Shafa",
+      "title": "Filson skagit rain pants",
+      "url": "https://shafa.ua/uk/men/sport-i-otdyh/sportivnyye-shtany/196505491-filson-skagit-rain-pants"
+    },
+    "d794b4ba9f5def907d062c86972c77dd97985e3cfc3c097d99e3c756479344ce": {
+      "first_seen": 1789645358,
+      "price": "800 грн",
+      "source": "OLX",
+      "title": "В колекцію колекційний комбінезон Mossy Oak made in USA XL filson icebreaker camo",
+      "url": "https://www.olx.ua/d/uk/obyavlenie/v-kolektsyu-kolektsyniy-kombnezon-mossy-oak-made-in-usa-xl-filson-icebreaker-camo-ID11fUOG.html?search_reason=search%7Corganic"
+    },
+    "d8330ad33da92b07291d959f302cc585798e24f9f545a8e82555924b08936952": {
+      "first_seen": 1789645358,
+      "price": "2 000 грн",
+      "source": "OLX",
+      "title": "В колекцію колекційний ремінь Levis filson double rl ralph made in italy шкіра",
+      "url": "https://www.olx.ua/d/uk/obyavlenie/v-kolektsyu-kolektsyniy-remn-levis-filson-double-rl-ralph-made-in-italy-shkra-ID10DveC.html?search_reason=search%7Corganic"
+    },
+    "db13945ceec36824cb6085b897813479b3122ef9ca4c08dbc8839d7270955a1e": {
+      "first_seen": 1789645358,
+      "price": "2 000 грн",
+      "source": "OLX",
+      "title": "Куртка Addict M65 filson mccoy dupe xl",
+      "url": "https://www.olx.ua/d/uk/obyavlenie/kurtka-addict-m65-filson-mccoy-dupe-xl-IDZSovy.html?search_reason=search%7Corganic"
+    },
+    "dc787b9bacab72a89bc394ce58065bab32e1613b795fb0d72ecaf8947dd7e8b2": {
+      "first_seen": 1789645358,
+      "price": "1 000 грн",
+      "source": "OLX",
+      "title": "Вінтажна робоча куртка workwear filson double rl",
+      "url": "https://www.olx.ua/d/uk/obyavlenie/vntazhna-robocha-kurtka-workwear-filson-double-rl-ID10DNiw.html?search_reason=search%7Corganic"
+    },
+    "dc80230e61fab86d924623efe1ffde564068dacd03b78021b5f49ecc45ce0494": {
+      "first_seen": 1789645358,
+      "price": "2 500 грн",
+      "source": "OLX",
+      "title": "В колекцію новий ремінь Levis LVC шкіра filson doubl RL велика бляха",
+      "url": "https://www.olx.ua/d/uk/obyavlenie/v-kolektsyu-noviy-remn-levis-lvc-shkra-filson-doubl-rl-velika-blyaha-ID111oNe.html?search_reason=search%7Corganic"
+    },
+    "dde5715b152a7f686b028d9069cfa0bb79c62da8be470cdef9177def365ecb08": {
+      "first_seen": 1789645358,
+      "price": "2 000 грн",
+      "source": "OLX",
+      "title": "Куртка вакс Country Barbour filson double rl made in England",
+      "url": "https://www.olx.ua/d/uk/obyavlenie/kurtka-vaks-country-barbour-filson-double-rl-made-in-england-ID10ytkP.html?search_reason=search%7Corganic"
+    },
+    "e11ecd3361018e23a1c22d53301afab73e366168391af8a2664bcbcedfc0e69b": {
+      "first_seen": 1789645358,
+      "price": "850 грн",
+      "source": "Shafa",
+      "title": "Кепка filson оригінал",
+      "url": "https://shafa.ua/uk/aksesuary/holovni-ubory/kepky/214694084-kepka-filson-original"
+    },
+    "e6702e16ea249db9c7f3a1c7eae3d9f0d764a914cc139cbe581f8e24f5827064": {
+      "first_seen": 1789645358,
+      "price": "2 000 грн",
+      "source": "OLX",
+      "title": "Чоловічі штани C.C. Filson, 29 x 34, made in USA",
+      "url": "https://www.olx.ua/d/uk/obyavlenie/cholovch-shtani-c-c-filson-29-x-34-made-in-usa-ID10IcAa.html?search_reason=search%7Corganic"
+    },
+    "e7c4898d0a563df61cdb831c7dbe267b038a21da1dc3485af9d9fb8d788a25a3": {
+      "first_seen": 1789645358,
+      "price": "1 000 грн",
+      "source": "OLX",
+      "title": "В колекцію колекційна куртка stronghold m filson apc visvim",
+      "url": "https://www.olx.ua/d/uk/obyavlenie/v-kolektsyu-kolektsyna-kurtka-stronghold-m-filson-apc-visvim-ID10dMAW.html?search_reason=search%7Corganic"
+    },
+    "eaedee37a5699bd655ff3286ad44e4fa79859198ae103ceabcc86937dd067873": {
+      "first_seen": 1789645358,
+      "price": "",
+      "source": "OLX",
+      "title": "Чат",
+      "url": "https://www.olx.ua/uk/myaccount/answers"
+    },
+    "eb9f80915e421ad7d48c3acd5f17469a68fe2921cc0af7094900c51a7a746f1e": {
+      "first_seen": 1789645358,
+      "price": "1 000 грн",
+      "source": "OLX",
+      "title": "Колекційні в колекцію PRPS japan jron heart filson tartisan",
+      "url": "https://www.olx.ua/d/uk/obyavlenie/kolektsyn-v-kolektsyu-prps-japan-jron-heart-filson-tartisan-ID10iofn.html?search_reason=search%7Corganic"
+    },
+    "ef0a58a3ca025c68d005b5b31fe205bb9eefe2e8b416d98b806c0d2f5778bc50": {
+      "first_seen": 1789645358,
+      "price": "850 грн",
+      "source": "Shafa",
+      "title": "Сумка filson оригінал",
+      "url": "https://shafa.ua/uk/aksesuary/vsi-sumky/sumky/211161861-sumka-filson-original"
+    },
+    "f1697ae67360d65f8e50e852e3f266ec39f6d6bd6e1ef432a1e4f9ec8fb0189d": {
+      "first_seen": 1789645358,
+      "price": "",
+      "source": "OLX",
+      "title": "filson в Верхній одяг",
+      "url": "https://www.olx.ua/uk/moda-i-stil/muzhskaya-odezhda/verhnyaya-odezhda/q-filson"
+    },
+    "f6d612fd2d46206c74ff6a3db64ea5efe52f5eabfc22366e7fe5f72002cad18a": {
+      "first_seen": 1789645358,
+      "price": "9 000 грн",
+      "source": "OLX",
+      "title": "Сумка мессенджер Porter made in Japan оригінал шкіра filson double rl",
+      "url": "https://www.olx.ua/d/uk/obyavlenie/sumka-messendzher-porter-made-in-japan-orignal-shkra-filson-double-rl-ID115Cg1.html?search_reason=search%7Corganic"
+    },
+    "faec380bf9b1cca7434293e546858f8a16f10555760f426e01625b4dbd504545": {
+      "first_seen": 1789645358,
+      "price": "2 000 грн",
+      "source": "OLX",
+      "title": "Шкіряна куртка Guide London filson double rl оригінал l/m",
+      "url": "https://www.olx.ua/d/uk/obyavlenie/shkryana-kurtka-guide-london-filson-double-rl-orignal-l-m-ID10J395.html?search_reason=search%7Corganic"
+    },
+    "fef294fe1ae8d07f9efd755395ddf646c047fdb5964a2ac1282e5bd997c5c038": {
+      "first_seen": 1789645358,
+      "price": "850 грн",
+      "source": "Shafa",
+      "title": "Черевики утеплені sebago filson osmore сірий р.41",
+      "url": "https://shafa.ua/uk/men/obuv/botinki/192403347-chereviki-utepleni-sebago-filson-osmore-siriy-r41"
+    }
+  },
+  "version": 1
 }
