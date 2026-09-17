@@ -1,0 +1,62 @@
+.github/workflows/filson-monitor.yml
+name: Filson UA Monitor
+
+on:
+  schedule:
+    # GitHub Actions scheduled workflows use UTC.
+    # Run every 5 minutes.
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: filson-ua-monitor
+  cancel-in-progress: false
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    timeout-minutes: 4
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          persist-credentials: true
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+
+      - name: Install Python dependencies
+        run: pip install -r requirements.txt
+
+      - name: Install Chromium for Playwright
+        run: playwright install --with-deps chromium
+
+      - name: Scan marketplaces and send Telegram alerts
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          WARM_START: "1"
+          PAGE_TIMEOUT_MS: "45000"
+        run: python monitor.py
+
+      - name: Save seen-listing database back to repository
+        if: always()
+        run: |
+          if git diff --quiet -- data/seen.json; then
+            echo "No state changes."
+            exit 0
+          fi
+
+          git config user.name "filson-monitor-bot"
+          git config user.email "filson-monitor-bot@users.noreply.github.com"
+          git add data/seen.json
+          git commit -m "Update seen Filson listings [skip ci]"
+          git push
