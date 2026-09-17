@@ -1,0 +1,39 @@
+# Search pages monitored on every GitHub Actions run.
+# The parser is generic and looks for listing cards containing "filson".
+sources:
+  - name: OLX
+    enabled: true
+    url: "https://www.olx.ua/uk/list/q-filson/"
+    domain: "olx.ua"
+
+  - name: Shafa
+    enabled: true
+    url: "https://shafa.ua/uk/clothes?search_text=filson"
+    domain: "shafa.ua"
+
+  - name: Prom
+    enabled: true
+    url: "https://prom.ua/ua/search?search_term=filson"
+    domain: "prom.ua"
+    # Prom may contain unrelated products under the same/similar brand name.
+    exclude_any:
+      - "акумулятор"
+      - "аккумулятор"
+      - "акб"
+      - "батарея"
+      - "ареометр"
+      - "електроліт"
+      - "электролит"
+      - "сито"
+      - "просіювач"
+      - "инструмент"
+
+  - name: Bigl
+    enabled: true
+    url: "https://bigl.ua/ua/search?search_term=filson"
+    domain: "bigl.ua"
+    exclude_any:
+      - "акумулятор"
+      - "аккумулятор"
+      - "акб"
+      - "батарея"
